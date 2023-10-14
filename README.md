@@ -1,6 +1,5 @@
 # Predicting-heart-disease-with-ML
-Predicting heart disease using machine learning
-This notebook looks into our various Python-based machine learning and data science libraries in an attempt to build a machine learning model capable of predicting whether or not someone has heart disease or not based on their medical attributes
+Predicting heart disease using machine learning - machine learning model capable of predicting whether or not someone has heart disease or not based on their medical attributes
 
 STEPS
 
