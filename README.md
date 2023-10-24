@@ -1,5 +1,5 @@
 # Predicting-heart-disease-with-ML
-Predicting heart disease using machine learning - machine learning model capable of predicting whether or not someone has heart disease or not based on their medical attributes
+Machine learning model capable of predicting whether or not someone has heart disease or not based on their medical attributes
 
 STEPS
 
