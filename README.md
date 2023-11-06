@@ -3,19 +3,18 @@ Machine learning model capable of predicting whether or not someone has heart di
 
 STEPS
 
-Problem Definition
+1.Problem Definition
 Data source - https://archive.ics.uci.edu/ml/datasets/heart+disease
 
-Evaluation = 95% accuracy at least
+2.Evaluation = 95% accuracy at least
 
-Main Features
+3.Main Features
 
-Modelling
+a)Modelling
 
-Experimentation
+b)Experimentation
 
 DATA DICTIONARY
-
 age - age in years 
 
 sex - (1 = male; 0 = female) 
