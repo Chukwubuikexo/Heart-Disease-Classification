@@ -9,8 +9,11 @@ Data source - https://archive.ics.uci.edu/ml/datasets/heart+disease
 Evaluation = 95% accuracy at least
 
 Main Features
+
 Modelling
+
 Experimentation
+
 DATA DICTIONARY
 
 age - age in years 
