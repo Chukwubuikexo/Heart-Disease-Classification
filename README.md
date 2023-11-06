@@ -5,8 +5,10 @@ STEPS
 
 Problem Definition
 Data source - https://archive.ics.uci.edu/ml/datasets/heart+disease
+
 Evaluation = 95% accuracy at least
-Features of the data we are going to be focusing on
+
+Main Features
 Modelling
 Experimentation
 DATA DICTIONARY
