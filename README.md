@@ -6,7 +6,7 @@ STEPS
 1.Problem Definition
 Data source - https://archive.ics.uci.edu/ml/datasets/heart+disease
 
-2.Evaluation = 95% accuracy at least
+2.Evaluation = 85% accuracy
 
 3.Main Features
 
