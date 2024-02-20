@@ -1,4 +1,4 @@
-# Predicting-heart-disease-with-ML
+# Heart Disease Classification
 Machine learning model capable of predicting whether or not someone has heart disease or not based on their medical attributes
 
 STEPS
